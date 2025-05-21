@@ -149,3 +149,10 @@ json
 {
   "identificacion": "string"
 }
+
+### 📘 Documentación Swagger
+
+Accede al Swagger JSON desde la siguiente URL:
+
+[https://34.160.97.36.nip.io/transactionalproxy](https://34.160.97.36.nip.io/transactionalproxy)
+
